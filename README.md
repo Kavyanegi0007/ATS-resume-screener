@@ -8,6 +8,8 @@ A smart, AI-powered resume matching tool that evaluates candidate resumes agains
 ![Go](https://img.shields.io/badge/Go-1.19+-00ADD8?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
+<img width="1366" height="722" alt="image" src="https://github.com/user-attachments/assets/3140b333-44ff-47fa-b343-e011ff9ee6dd" />
+
 ## 🎯 Features
 
 ### Core Functionality
