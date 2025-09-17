@@ -9,6 +9,7 @@ A smart, AI-powered resume matching tool that evaluates candidate resumes agains
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 <img width="1366" height="722" alt="image" src="https://github.com/user-attachments/assets/3140b333-44ff-47fa-b343-e011ff9ee6dd" />
+<img width="1351" height="637" alt="image" src="https://github.com/user-attachments/assets/28d81388-d250-4fcd-b2c7-817ae1ea43ac" />
 
 ## 🎯 Features
 
